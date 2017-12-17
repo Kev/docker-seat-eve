@@ -3,3 +3,5 @@ create.sh
 mysqldetails.sh
 data/
 push.sh
+environment
+upload.sh
